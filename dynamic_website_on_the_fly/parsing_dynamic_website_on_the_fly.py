@@ -14,7 +14,8 @@ with open('data/result.csv', 'w', newline='') as output:
                      'website',
                      'open date',
                      'management',
-                     'developer'])
+                     'developer',
+                     'list of stores'])
 
 
 # masking request headings
