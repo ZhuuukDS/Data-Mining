@@ -2,7 +2,7 @@ from requests import Session
 from bs4 import BeautifulSoup
 
 '''
-This script shows how to create path authorization requests.
+This script shows how to create post authorization requests.
 It is needed when we need to parse the website with 'login/password'
 
 This is based on the training website 'http://quotes.toscrape.com/'
